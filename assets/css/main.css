@@ -1424,7 +1424,7 @@ body.is-preload #bg:before {
   border-radius: 100%;
   background-image: url("../../images/gautam2.jpg");
   background-repeat: no-repeat;
-  background-size: 300px 350px;
+  background-size: cover;
 }
 
 #header .logo .icon:before {
